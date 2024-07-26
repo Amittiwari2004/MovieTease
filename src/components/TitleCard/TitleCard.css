@@ -1,0 +1,21 @@
+.title-card{
+    margin-top:50px;
+    margin-bottom: 30px;
+}
+.title-card h2{
+    margin-bottom: 8px;
+}
+.card-list{
+    display: flex;
+    gap:10px;
+    overflow: scroll;
+}
+.card-list img{
+    width: 240px;
+    border-radius: 4px;
+    cursor: pointer;
+    list-style: none;
+}
+.card-list p{
+    text-decoration: none;
+}
